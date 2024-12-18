@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/github.io/Shoping.git/static/css/main.5d7bc981.css",
+    "main.css": "/github.io/Shoping.git/static/css/main.b9395a1e.css",
     "main.js": "/github.io/Shoping.git/static/js/main.873482ec.js",
     "static/media/Rectangle.png": "/github.io/Shoping.git/static/media/Rectangle.386c49c2db09a01aaff2.png",
     "static/media/header-img.jpg": "/github.io/Shoping.git/static/media/header-img.3266b145a803ea6064bc.jpg",
@@ -17,11 +17,11 @@
     "index.html": "/github.io/Shoping.git/index.html",
     "static/media/arrow.svg": "/github.io/Shoping.git/static/media/arrow.9d4f9d5e31a0e0b90396898109d19746.svg",
     "static/media/decor-yellow.svg": "/github.io/Shoping.git/static/media/decor-yellow.a14a51327547871fd595.svg",
-    "main.5d7bc981.css.map": "/github.io/Shoping.git/static/css/main.5d7bc981.css.map",
+    "main.b9395a1e.css.map": "/github.io/Shoping.git/static/css/main.b9395a1e.css.map",
     "main.873482ec.js.map": "/github.io/Shoping.git/static/js/main.873482ec.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d7bc981.css",
+    "static/css/main.b9395a1e.css",
     "static/js/main.873482ec.js"
   ]
 }
