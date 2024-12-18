@@ -1,0 +1,18 @@
+.Footer_section{
+    padding: 120px 0;
+    background-color: #000000;
+    color: white;
+}
+
+.Footer_text{
+    text-align: center;
+    color: white;
+}
+.Footer_text h1{
+    font-size: 98px;
+}
+a{
+    font-size: 48px;
+    color: white;
+}
+

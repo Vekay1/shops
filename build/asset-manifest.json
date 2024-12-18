@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/github.io/Shoping.git/static/css/main.5d7bc981.css",
+    "main.js": "/github.io/Shoping.git/static/js/main.873482ec.js",
+    "static/media/Rectangle.png": "/github.io/Shoping.git/static/media/Rectangle.386c49c2db09a01aaff2.png",
+    "static/media/header-img.jpg": "/github.io/Shoping.git/static/media/header-img.3266b145a803ea6064bc.jpg",
+    "static/media/promo-01.jpg": "/github.io/Shoping.git/static/media/promo-01.4fc3ca39e368bb92d886.jpg",
+    "static/media/vouchers-img.png": "/github.io/Shoping.git/static/media/vouchers-img.254242f146515a766546.png",
+    "static/media/cat-03.jpg": "/github.io/Shoping.git/static/media/cat-03.eb55f780a8fbbaf39b98.jpg",
+    "static/media/cat-01.jpg": "/github.io/Shoping.git/static/media/cat-01.c4e2270f3eab9f7477cf.jpg",
+    "static/media/promo-02.jpg": "/github.io/Shoping.git/static/media/promo-02.27a2e3f6b94c48d6427b.jpg",
+    "static/media/cat-02.jpg": "/github.io/Shoping.git/static/media/cat-02.da44a5e6d64780d948d6.jpg",
+    "static/media/promo-img.jpg": "/github.io/Shoping.git/static/media/promo-img.5dbaef4c97cf3f8f19d6.jpg",
+    "static/media/Shopify.png": "/github.io/Shoping.git/static/media/Shopify.b4131342ebf309c24258.png",
+    "static/media/Amazon.png": "/github.io/Shoping.git/static/media/Amazon.7897112af9316cea076c.png",
+    "static/media/logo.svg": "/github.io/Shoping.git/static/media/logo.fa6ed5442940b2375841123db8c623be.svg",
+    "index.html": "/github.io/Shoping.git/index.html",
+    "static/media/arrow.svg": "/github.io/Shoping.git/static/media/arrow.9d4f9d5e31a0e0b90396898109d19746.svg",
+    "static/media/decor-yellow.svg": "/github.io/Shoping.git/static/media/decor-yellow.a14a51327547871fd595.svg",
+    "main.5d7bc981.css.map": "/github.io/Shoping.git/static/css/main.5d7bc981.css.map",
+    "main.873482ec.js.map": "/github.io/Shoping.git/static/js/main.873482ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d7bc981.css",
+    "static/js/main.873482ec.js"
+  ]
+}

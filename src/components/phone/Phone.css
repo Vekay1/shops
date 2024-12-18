@@ -1,0 +1,66 @@
+.phone{
+    margin-bottom: 63px;
+
+}
+.phone_content{
+    display: flex;
+    column-gap: 24px;
+    padding-left: 150px;
+}
+.phone_text{
+    padding-top: 200px;
+    padding-left: -10px;
+}
+.phone_title{
+    max-width: 480px;
+    margin-bottom: 40px;
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 1.25;
+}
+.phone_desc{
+    margin-bottom: 32px;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: calc(48 / 32);
+    letter-spacing: -0.05em;
+}
+.phone_btn-wrapper{
+    display: flex;
+    column-gap: 34px;
+    align-items: center;
+}
+.phone_img{
+    padding-left: 120px;
+}
+
+
+.phone_btn{
+    padding: 18px 40px;
+    color: white;
+    background-color: black;
+    border-radius: 7px;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 1.5;
+    letter-spacing: -0.03em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
